@@ -1,2 +1,2 @@
 # california-housing
-details will be added as soon as the project completes.
+The goal here is to build a machine learning model to predict housing prices in California using the California Census Data. The data has metrics such as population, median income, median housing prices, and so on. The data was mostly raw and lacked any form of preprocessing. Hence a lot of time was invested in processing and cleaning the data, thus getting it ready for a mathematical model to gain insights. The data was tested with linear-regression, decision-tree-regressor and random-forest-regressor.
